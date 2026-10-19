@@ -57,3 +57,5 @@ Necesitas una Mac con **Xcode 16 o más reciente** y tu Apple ID.
 | `Shared/` | Código que usan las dos (modos, formato de tiempo, datos de la Live Activity) |
 | `Config/` | `Info.plist` de la app y del widget |
 | `.github/workflows/build.yml` | Compila el proyecto en una Mac de GitHub en cada cambio |
+
+
