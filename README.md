@@ -58,4 +58,9 @@ Necesitas una Mac con **Xcode 16 o más reciente** y tu Apple ID.
 | `Config/` | `Info.plist` de la app y del widget |
 | `.github/workflows/build.yml` | Compila el proyecto en una Mac de GitHub en cada cambio |
 
+## Seguir desarrollando
+
+El archivo `CLAUDE.md` tiene las decisiones tomadas, el estado del proyecto y lo que falta probar en el iPad.
+Si usas Claude Code en tu Mac, abre una terminal en esta carpeta y ejecuta `claude`: lo lee automáticamente
+y puede seguir desde ahí.
 
